@@ -21,6 +21,11 @@ public class Game {
         this.arraysGPU = GPU;
     }
 
+    public Game(){
+
+    }
+
+
     // ---------------------------------
     // Методы доступа
     public String getTitle() {

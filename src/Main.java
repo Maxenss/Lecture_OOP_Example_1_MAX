@@ -66,5 +66,9 @@ public class Main {
         {
             System.out.println("\nИгрушка не пойдет");
         }
+
+        GameForTargetPlatform gameForTargetPlatform =
+                new GameForTargetPlatform();
+
     }
 }
